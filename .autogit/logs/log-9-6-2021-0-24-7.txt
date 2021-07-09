@@ -1,0 +1,201 @@
+-------------------- Auto-Git Log --------------------
+		Fri Jul 09 2021 00:24:07 GMT+0000 (heure moyenne de Greenwich)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/autogit.json
+* .gitignore
+* .metadata
+* android/.gitignore
+* android/app/build.gradle
+* android/app/src/debug/AndroidManifest.xml
+* android/app/src/main/AndroidManifest.xml
+* android/app/src/main/kotlin/com/example/gestionsalle/MainActivity.kt
+* android/app/src/main/res/drawable/launch_background.xml
+* android/app/src/main/res/mipmap-hdpi/ic_launcher.png
+* android/app/src/main/res/mipmap-mdpi/ic_launcher.png
+* android/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+* android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+* android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+* android/app/src/main/res/values/styles.xml
+* android/app/src/profile/AndroidManifest.xml
+* android/build.gradle
+* android/gradle.properties
+* android/gradle/wrapper/gradle-wrapper.properties
+* android/settings.gradle
+* assets/fonts/LunaSans-Black.ttf
+* assets/fonts/LunaSans-BlackItalic.ttf
+* assets/fonts/LunaSans-Bold.ttf
+* assets/fonts/LunaSans-BoldItalic.ttf
+* assets/fonts/LunaSans-ExtraBold.ttf
+* assets/fonts/LunaSans-ExtraBoldItalic.ttf
+* assets/fonts/LunaSans-Italic.ttf
+* assets/fonts/LunaSans-Light.ttf
+* assets/fonts/LunaSans-Regular.ttf
+* assets/fonts/Raleway-Bold.ttf
+* assets/fonts/Raleway-ExtraBold.ttf
+* assets/fonts/Raleway-ExtraLight.ttf
+* assets/fonts/Raleway-Heavy.ttf
+* assets/fonts/Raleway-Light.ttf
+* assets/fonts/Raleway-Medium.ttf
+* assets/fonts/Raleway-Regular.ttf
+* assets/fonts/Raleway-SemiBold.ttf
+* assets/fonts/Raleway-Thin.ttf
+* assets/fonts/Roboto-Bold.ttf
+* assets/fonts/Roboto-Light.ttf
+* assets/fonts/Roboto-Regular.ttf
+* "assets/icons/Back ICon.svg"
+* assets/icons/Bell.svg
+* "assets/icons/Bill Icon.svg"
+* assets/icons/Call.svg
+* "assets/icons/Camera Icon.svg"
+* "assets/icons/Cart Icon.svg"
+* assets/icons/Cash.svg
+* "assets/icons/Chat bubble Icon.svg"
+* "assets/icons/Check mark rounde.svg"
+* assets/icons/Close.svg
+* assets/icons/Conversation.svg
+* assets/icons/Discover.svg
+* assets/icons/Error.svg
+* "assets/icons/Flash Icon.svg"
+* "assets/icons/Game Icon.svg"
+* "assets/icons/Gift Icon.svg"
+* "assets/icons/Heart Icon.svg"
+* "assets/icons/Heart Icon_2.svg"
+* "assets/icons/Location point.svg"
+* assets/icons/Lock.svg
+* "assets/icons/Log out.svg"
+* assets/icons/Mail.svg
+* assets/icons/Parcel.svg
+* assets/icons/Phone.svg
+* "assets/icons/Plus Icon.svg"
+* "assets/icons/Question mark.svg"
+* "assets/icons/Search Icon.svg"
+* assets/icons/Settings.svg
+* "assets/icons/Shop Icon.svg"
+* "assets/icons/Star Icon.svg"
+* assets/icons/Success.svg
+* assets/icons/Trash.svg
+* "assets/icons/User Icon.svg"
+* assets/icons/User.svg
+* assets/icons/add_to_cart.svg
+* assets/icons/arrow_right.svg
+* assets/icons/back.svg
+* assets/icons/bag_1.svg
+* assets/icons/cart.svg
+* assets/icons/facebook-2.svg
+* assets/icons/google-icon.svg
+* assets/icons/heart.svg
+* assets/icons/receipt.svg
+* assets/icons/remove.svg
+* assets/icons/search.svg
+* assets/icons/twitter.svg
+* assets/images/pc.jpg
+* assets/images/salle.jpg
+* assets/images/video.jpg
+* ios/.gitignore
+* ios/Flutter/AppFrameworkInfo.plist
+* ios/Flutter/Debug.xcconfig
+* ios/Flutter/Release.xcconfig
+* ios/Runner.xcodeproj/project.pbxproj
+* ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+* ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+* ios/Runner.xcworkspace/contents.xcworkspacedata
+* ios/Runner/AppDelegate.swift
+* ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json
+* ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png
+* ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png
+* ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png
+* ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png
+* ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png
+* ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png
+* ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png
+* ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png
+* ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png
+* ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png
+* ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png
+* ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png
+* ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png
+* ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png
+* ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png
+* ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json
+* ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png
+* ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png
+* ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png
+* ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md
+* ios/Runner/Base.lproj/LaunchScreen.storyboard
+* ios/Runner/Base.lproj/Main.storyboard
+* ios/Runner/Info.plist
+* ios/Runner/Runner-Bridging-Header.h
+* lib/api/rest_api.dart
+* lib/app_drawer.dart
+* lib/components/default_button.dart
+* lib/components/form_error.dart
+* lib/components/social_card.dart
+* lib/constants.dart
+* lib/main.dart
+* lib/menu_etudiant.dart
+* lib/model/login.dart
+* lib/routes.dart
+* lib/screens/accueil/accueil_etudiant_screen.dart
+* lib/screens/accueil/accueil_screen.dart
+* lib/screens/accueil/components/body.dart
+* lib/screens/accueil/components/etudiant_form.dart
+* lib/screens/compte/enseignant/components/body.dart
+* lib/screens/compte/enseignant/components/enseignant_form.dart
+* lib/screens/compte/enseignant/enseignant_screen.dart
+* lib/screens/compte/etudiant/components/body.dart
+* lib/screens/compte/etudiant/components/etudiant_form.dart
+* lib/screens/compte/etudiant/etudiant_screen.dart
+* lib/screens/consultation/components/body.dart
+* lib/screens/consultation/components/consultation_form.dart
+* lib/screens/consultation/consultation_screen.dart
+* lib/screens/consultation/ordinateur/components/allordinateur.dart
+* lib/screens/consultation/ordinateur/components/body.dart
+* lib/screens/consultation/ordinateur/components/consult_ordi_form.dart
+* lib/screens/consultation/ordinateur/consult_ordi_screen.dart
+* lib/screens/consultation/salle/components/allsalle.dart
+* lib/screens/consultation/salle/components/body.dart
+* lib/screens/consultation/salle/components/consult_salle_form.dart
+* lib/screens/consultation/salle/consult_salle_screen.dart
+* lib/screens/consultation/videoprojecteur/components/allVideoPro.dart
+* lib/screens/consultation/videoprojecteur/components/body.dart
+* lib/screens/consultation/videoprojecteur/components/consult_video_pro_form.dart
+* lib/screens/consultation/videoprojecteur/consult_video_pro_screen.dart
+* lib/screens/home/components/body.dart
+* lib/screens/home/home_screen.dart
+* lib/screens/login/components/body.dart
+* lib/screens/login/components/login_form.dart
+* lib/screens/login/login_screen.dart
+* lib/screens/register/components/body.dart
+* lib/screens/register/components/register_form.dart
+* lib/screens/register/register_screen.dart
+* lib/screens/reservation/components/body.dart
+* lib/screens/reservation/components/reservation_form.dart
+* lib/screens/reservation/materiel/components/body.dart
+* lib/screens/reservation/materiel/ordinateur/components/body.dart
+* lib/screens/reservation/materiel/ordinateur/components/ordinateur_form.dart
+* lib/screens/reservation/materiel/ordinateur/ordinateur_screen.dart
+* lib/screens/reservation/materiel/videoprojecteur/components/body.dart
+* lib/screens/reservation/materiel/videoprojecteur/components/videoprojecteur_form.dart
+* lib/screens/reservation/materiel/videoprojecteur/videoprojecteur_screen.dart
+* lib/screens/reservation/reservation_screen.dart
+* lib/screens/reservation/salle/components/body.dart
+* lib/screens/reservation/salle/components/salle_form.dart
+* lib/screens/reservation/salle/salle_screen.dart
+* lib/size_config.dart
+* lib/splash/components/body.dart
+* lib/splash/components/splash_content.dart
+* lib/splash/splash_screen.dart
+* pubspec.lock
+* pubspec.yaml
+* test/widget_test.dart
+
+
+Deleted files:
+
+
+Renamed files:
